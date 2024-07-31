@@ -52,15 +52,8 @@ This project demonstrates the use of Java Persistence API (JPA) for model object
    - Create named queries with joins for accessing lazy-fetched objects.
 
 4. **JUnit Tests**:
-   - Implement a minimum of 40 JUnit tests.
+   - Implement 60+ JUnit tests.
    - Use the Client API to test CRUD operations and role-based access controls.
-   - Ensure the REST API is running before executing tests.
-   - Optionally generate a Maven surefire report to summarize test results.
+   - Generate a Maven surefire report to summarize test results.
  
  
-
----
-
-### Contact
-
-For any questions or support, please contact Lei Luo at [email@example.com].
