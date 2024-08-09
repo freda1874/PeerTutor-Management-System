@@ -1,4 +1,4 @@
-###  Group project for Peertutor Registration managment system using Java EE, REST API, JSON, MySQL
+### PeerTutor Management System
  
 ### Project Overview
 This project demonstrates the use of Java Persistence API (JPA) for model objects, session beans for business logic, RESTful services for backend resource representation, JEE security roles for access control, and JUnit for testing.
